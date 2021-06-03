@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the King's Commission of Oyer and Terminer, and Goal Delivery for the Admiralty of England, of several persons, for  several felonies and piracies by them committed on the high seas. At a sessions of Admiralty, held at Justice-Hall in the Old-Baily, London, on Monday the 28th day of June, and Monday the 12th day of July, 1697. And in the ninth year of His Majesties' reign.</title>
+            <author>England and Wales. King's Commission of Oyer and Terminer and Goal Delivery for the Admiralty of England.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43717</idno><idno type="EEBO-CITATION">767618618</idno>
+  <idno type="VID">212631</idno>
+  <idno type="EEBO-PROQUEST">2240864196</idno>
+  
+            <idno type="OCLC"> 767618618</idno>
+            <idno type="OCLC">ocn 767618618</idno>
+            <idno type="STC">Wing P3591</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212631)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3023:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the King's Commission of Oyer and Terminer, and Goal Delivery for the Admiralty of England, of several persons, for  several felonies and piracies by them committed on the high seas. At a sessions of Admiralty, held at Justice-Hall in the Old-Baily, London, on Monday the 28th day of June, and Monday the 12th day of July, 1697. And in the ninth year of His Majesties' reign.</title>
+                  <author>England and Wales. King's Commission of Oyer and Terminer and Goal Delivery for the Admiralty of England.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by E. Whicklock near Stationers Hall.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: torn; print show-through.</note>
+                  <note>Reproduction of original in: Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Law reports, digests, etc. --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212631:1"/>
+            <pb n="1" facs="tcp:212631:2"/>
+            <head>THE PROCEEDINGS OF THE King's Commission Of <hi>Oyer</hi> and <hi>Terminer,</hi> and <hi>Goal</hi> Delivery for the Admiralty of <hi>England,</hi> of several Persons, for several <hi>Felonies</hi> and <hi>Piracies</hi> by them Committed on the High SEAS. At a Sessions of Admiralty, held at <hi>Justice-Hall</hi> in the <hi>Old-Baily, London,</hi> on <hi>Monday</hi> the 28<hi>th</hi> day of <hi>June,</hi> and <hi>Monday</hi> the 12<hi>th</hi> day of <hi>July,</hi> 1697. And in the Ninth Year of His Majesties Reign.</head>
+            <p>THERE being present the Honourable Sir <hi>Charles Hedges</hi> Knight, Judge of the High Court of Admira<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty, Sir <hi>Littleton Powys.</hi> one of the Barons of the Exche<g ref="char:EOLhyphen"/>quer; together with the several Doctors of the Civil Law, and other Persons Commissionated on that Occasion, Mr. <hi>Checke,</hi> Marshal of the Court, carrying a Silver Oar before the Judge into the B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy of the Court; and the Court being Sat, P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oclamation was made for Silence, the Grand Jury was Sworn to Enquire for our Sovereign Lord the King.</p>
+            <p>After which, a Charge was given by the Judge of the Court, and the Gentlemen of the Grand Jury withdrew, and after some time returned, and presented to the Court the following hills. First, Agai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st <hi>Edward Lyre</hi> and <hi>John Oldfield,</hi> for High-Treason, in Ad<g ref="char:EOLhyphen"/>hering to the French King. The Second against <hi>David Evans</hi> and <hi>Henry Adams,</hi> for Felony and Piracy, in taking the Ship <hi>Gunsway,</hi> in the <hi>East-Indies;</hi> but <hi>Henry Adams</hi> having m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de his Escape out of <hi>Worcester</hi> Goal, is not y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t re-taken. The Third against <hi>Francisco Martin,</hi> for Piracy and Felony, in taking a Ship called the <hi>Loving Land,</hi> near the Island of <hi>Salitudo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in the <hi>West-Indies:</hi> But he being upon Bail, and it being represented to the Court that the said <hi>Ma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in</hi> being upon his Voy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge for <hi>England,</hi> was taken by the French, and detained as Prisoner, the Court ordered the Continuance of his Bail for some time longer.</p>
+            <p>
+               <hi>Rand. Pye,</hi> was also Indicted for the Murther of one <hi>Thomas Lyddal,</hi> near <hi>Martegon</hi> in the <hi>East-Indies,</hi> but was brought in Ignoramus by the Grand Jury, and he Acquitted in Court. After wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch the Court Adjourned until <hi>Monday</hi> July the 12th,</p>
+            <p>
+               <hi>Monday,</hi> July <hi>the</hi> 12th. 1697. This Day the Court being Sat, according to the former Adjournment, the Grand Jury found a bill against <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onathan Bear;</hi> for High-Treason, after which the Petty Jury was called and Impannelled, and <hi>David Evans</hi> was called to the Bar and his Indictment being Read, set forth, That he, with several other Persons, did Fel<g ref="char:EOLhyphen"/>loniously and Pyratically seize and carry away the Ship called the <hi>Gunsway,</hi> her Furniture and Tackle to the Value of a Thousand Pounds, and Goods to the Value of 110 Pounds, and 100000 Pieces of Silver called Peices of Eight, to the Value of Twenty two Thousand Pounds, and 100000 Pieces of Gold called <hi>Chequins,</hi> to the Value of 40000 Pounds, being the Gords, Chattles, and Monies of certain Persons unknown, upon the High Seats, within Ten Leagues of the Cape of St. <hi>John,</hi> near <hi>Su<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> in the <hi>East-Indies,</hi> &amp;c. Then <hi>Philip Mill<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton,</hi> and Evidence for the King, being Sworn, Deposed, That <hi>Every</hi> being at the Isle of <hi>May,</hi> and wanting Men, having only about 80 on Board, the Ship being of 500.
+<pb n="2" facs="tcp:212631:3"/> Tuns and 46 Guns, did force <hi>David Evans</hi> on Board, as also Eight other Persons, and from thence went to <hi>Guinny,</hi> and then to the Island of <hi>Princess,</hi> and then to the <hi>Red Sea:</hi> where they waited for the <hi>Mecho</hi> Fleet, and afterwards met with the <hi>Gunsway,</hi> and after two Hours Fight, took her: But it appearing to the Jury that he was forced away against his Will, and that he afterwards desired one <hi>Edwards</hi> and one <hi>Adams</hi> to speak to <hi>Eve<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> to set him on Shore on the Island of <hi>Princess:</hi> and that it appeared he was only at <hi>Every</hi>'s Prisoner; They found him not Guilty.</p>
+            <p>Then <hi>Edward Lyne</hi> and <hi>John Oldfield</hi> was Indicted for High Treason, but it Appearing to the Court, that the Commission that <hi>Gerrard Badford,</hi> and the Prisoners <hi>Lyre</hi> and <hi>Oldfield</hi> had, was not a true one; but was the Commission of one <hi>John Closs,</hi> and only a pretended Assignment to <hi>Gerrard Badford,</hi> the Jury acquitted them of the Indictment; and a new In<g ref="char:EOLhyphen"/>dictment was drawn up against <hi>Gerrard Badford, Edward Lyne,</hi> and <hi>John Oldfield,</hi> for Pi<g ref="char:EOLhyphen"/>racy and Fellony: Then the Court Adjourned until the Afternoon, at which time being sat: The Gentlemen of the Grand Jury found the Bill:</p>
+            <p>Then <hi>Gerrard Badford, Edward Lyne,</hi> and <hi>John Oldfield</hi> were set to the Bar, and the Gen<g ref="char:EOLhyphen"/>tlemen of the Jury were Sworn as follow, <hi>viz.</hi>
+               <list>
+                  <item>Nathaniel Long,</item>
+                  <item>John Child,</item>
+                  <item>Edward Leach,</item>
+                  <item>Tho. Clarke,</item>
+                  <item>Nath. Greene,</item>
+                  <item>Henry Sherbrooke,</item>
+                  <item>Richard Greenway,</item>
+                  <item>John Sherbrooke,</item>
+                  <item>Thomas Emmes,</item>
+                  <item>Roger Mott,</item>
+                  <item>John Hedges,</item>
+                  <item>John James.</item>
+               </list>
+            </p>
+            <p>Then the Indictment was Read, which set forth, That they on the 9th Day of <hi>June</hi> last past, in a Ten O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Boat, called the <hi>Mary,</hi> did Piratically and Felloniously take a Ship cal<g ref="char:EOLhyphen"/>led the <hi>Thomas and Jane</hi> near the <hi>Downes,</hi> belonging to <hi>Thomas Wheatland,</hi> &amp;c. The King's Councils having opened the Indictment, <hi>Thomas Wheatland,</hi> Evidence for the King was called and Deposed, That being in the <hi>Downes,</hi> driving to the South part of the Break, he saw the Shallop, and mistrusting that she was a Privateer, sent his Mate away in his Boat with his Money to the <hi>Dorsetshire,</hi> who immediately sent a Lieutenant with a Mann'd Boat after him. <hi>Badford</hi> haled <hi>Wheatland,</hi> and asked him from whence he was, and fired a Gun at him, and immediately Boarded him; and asked him to Ransom his Vessel, which he at first refusing, the other threatned to burn his Vessel, but at last he did agree with them for a Ransom of 25 Pounds, They immediately Plundered him of all he had, and took him on Board their Vessel for the Ransom. <hi>Badford</hi> also told him, That they came out of <hi>Dunkirk</hi> the Night before.</p>
+            <p>
+               <hi>Adam Boynes</hi> Deposed, That about Eight a Clock in the Morning he Manned out his B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at, and went himself in quest of the Shallop, and when he came up to her, <hi>Oldfield</hi> Fired a Mus<g ref="char:EOLhyphen"/>quet at her, but he Immediately Boarded them; and that <hi>Oldfield</hi> offered 50 Guineas to him if he would set him on Shoar; he says there was but one <hi>French-man</hi> on Board. There was a third Evidence who Deposed, That he took out of <hi>Bedfords</hi> Pocket his pretended Commission, and that all the Prisoners were Assisting in taking of the <hi>Thomas and Jane.</hi> The Phisoners being asked what they had to say for themselves, <hi>Badford</hi> pleaded he was a <hi>French-man,</hi> and had a Commission, but it appeared plainly to the contrary. <hi>Lyne</hi> pretended that he was Wounded at <hi>Dyxmude,</hi> and that he was in the Hospital at <hi>Dunkirk,</hi> and only designed to come to <hi>England,</hi> and afterwards to go to his Wife and Children into <hi>Jamaica. Oldfield</hi> had lit<g ref="char:EOLhyphen"/>tle to say for himself, nor indeed any of them Material. So the Jury withdrew, and after a small time brought them all three in Guilty of Piracy and Fellony.</p>
+            <p>Then they being called and asked what they had to say, why Judgement should not pass upon them according to Law; <hi>Gerard Badford</hi> desired of the Court, that he might have the Priviledge to have a Priest, according to his Religion, being a <hi>Roman Catholick.</hi> And then the Judge of the Court gave Sentence according to Law.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>E. Whicklock</hi> near <hi>Stationers Hall.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
